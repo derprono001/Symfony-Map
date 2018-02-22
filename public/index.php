@@ -1,3 +1,5 @@
+<!-- Reference: https://developers.google.com/maps/documentation/javascript/mysql-to-maps -->
+
 <?php
 // function to geocode address, it will return false if unable to geocode address
 function geocode($address){
